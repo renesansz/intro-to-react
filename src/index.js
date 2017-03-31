@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import App from './App';
-// import './index.css';
+import './index.css';
 
 /**
  * Part 1: Basics of React DOM
@@ -30,7 +29,6 @@ ReactDOM.render(
  * -------------------------
  * Some advance useage/topic in regards with React DOM.
  */
-/*
 const user = {
     firstName: 'Renemari',
     lastName: 'Padillo'
@@ -68,7 +66,6 @@ function render() {
 }
 
 render();
-*/
 
 /**
  * Part 3: JSX Basics
@@ -161,6 +158,7 @@ ReactDOM.render(
  * -----------------------------------
  * Advance usage of React components by using properties.
  */
+/*
 // <Avatar />
 function Avatar(props) {
     return (
@@ -220,3 +218,4 @@ ReactDOM.render(
     <App />,
     document.getElementById('root')
 );
+*/
